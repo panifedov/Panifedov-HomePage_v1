@@ -1,4 +1,4 @@
-#My online portfolio
+My online portfolio
 ======
 ![alt-текст][logo]
 
