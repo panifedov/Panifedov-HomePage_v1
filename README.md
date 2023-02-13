@@ -3,6 +3,6 @@
 
 My online portfolio
 
-![img alt] (https://raw.githubusercontent.com/panifedov/Panifedov.github.io/main/assets/img/portfolio.png)
-![img alt] (https://raw.githubusercontent.com/panifedov/Panifedov.github.io/main/assets/img/portfolio2.png)
-![img alt] (https://raw.githubusercontent.com/panifedov/Panifedov.github.io/main/assets/img/portfolio4.png)
+![img alt] (https://github.com/panifedov/Panifedov.github.io/blob/main/assets/img/portfolio.png?raw=true)
+![img alt] (https://github.com/panifedov/Panifedov.github.io/blob/main/assets/img/portfolio2.png?raw=true)
+![img alt] (https://github.com/panifedov/Panifedov.github.io/blob/main/assets/img/portfolio4.png?raw=true)
