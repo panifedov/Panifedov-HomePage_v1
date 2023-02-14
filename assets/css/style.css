@@ -2427,7 +2427,7 @@ h6 { font-size: 16px; }
 	.panifedov_tm_mainpart .author_image{width: 35%;}
 	.panifedov_tm_mainpart .main_content{width: 100%;}
 	.panifedov_tm_section .section_inner:before{width: 50px;}
-	.panifedov_tm_title span{letter-spacing: 7px;}
+	.panifedov_tm_title span{ position: relative; left: 20px;}
 	.panifedov_tm_title span:after{margin-left: 25px;}
 	.panifedov_tm_header{height: 60px;line-height: 60px;padding: 0px 60px;}
 	.panifedov_tm_footer{height: 60px;line-height: 60px;padding: 0px 60px;}
